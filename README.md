@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dominick <a href="https://linkedin.com/in/Josh">IT technican</a>☺</h1>
+<h1>Hi, I'm Dominick <a href=">IT technican
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
